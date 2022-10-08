@@ -5,23 +5,23 @@ I am Mohamed Nasser a fresh graduate software engineer, who studied a postgradua
 ## Classical Machine Learning Projects
 ### `1.` House Pricing dataset
 <ul>
-  <li> <a href=> 
+  <li> <a href=https://github.com/Mohamed-AN/LinearRegression-Analytical.git> 
     Linear Regression (Analytical solution, and from scratch gradient descent compared to sklearn)</li>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/LinearRegression-Regularization>
     Linear Regression + Regularization (Lasso, and Ridge)</li>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/House-Pricing-SVR.git>
     SVM as SVR and comparing it with ordinary, and polynomial linear regression with it is different types of kernel</li>
 </ul>
 
-### `2.` Churn Dedection dataset
+### `2.` Churn Detection dataset
 <ul>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/churn-detection.git>
     SVM as SVC and comparing it with logistic regression with it is different types of kernel</li>
 </ul>
 
 ### `3.` Annual Income dataset
 <ul>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/decisionTree-randomForest>
     Decession Tree, Random Forest, and Kneighbors classifier </li>
 </ul>
 
