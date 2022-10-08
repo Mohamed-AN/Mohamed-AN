@@ -38,9 +38,9 @@ I am Mohamed Nasser a fresh graduate software engineer, who studied a postgradua
 
 ## Python Projects
 <ul>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/crowd-funding>
     Crowd Funding, is a console application which simulates kickstarter dashboard from (create, edit, delete, view, and search) </li>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/office-management>
     Office Management System </li>
 </ul>
 <!--
