@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Mohamed Nasser a fresh graduate software engineer.
+I am Mohamed Nasser a fresh graduate software engineer, who studied a postgraduate diploma for Artificial Intelligence and Machine Learning.
 
 <!--
 **Mohamed-AN/Mohamed-AN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
