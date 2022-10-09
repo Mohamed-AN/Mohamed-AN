@@ -35,6 +35,12 @@ I am Mohamed Nasser a fresh graduate software engineer, who studied a postgradua
 </ul>
 
 ## C++ Projects
+<ul>
+  <li> <a href=>
+    Abstract Data Type (ADT), using template class for common sorting algorithms and tested with integers and a user defined data type Employee. </li>
+  <li> <a href=>
+    Line Editor, a simple console application to edit a line </li>
+</ul>
 
 ## Python Projects
 <ul>
@@ -43,6 +49,7 @@ I am Mohamed Nasser a fresh graduate software engineer, who studied a postgradua
   <li> <a href=https://github.com/Mohamed-AN/office-management>
     Office Management System </li>
 </ul>
+
 <!--
 **Mohamed-AN/Mohamed-AN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
