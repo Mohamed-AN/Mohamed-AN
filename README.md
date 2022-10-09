@@ -36,9 +36,9 @@ I am Mohamed Nasser a fresh graduate software engineer, who studied a postgradua
 
 ## C++ Projects
 <ul>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/ADT-Template>
     Abstract Data Type (ADT), using template class for common sorting algorithms and tested with integers and a user defined data type Employee. </li>
-  <li> <a href=>
+  <li> <a href=https://github.com/Mohamed-AN/LineEditor>
     Line Editor, a simple console application to edit a line </li>
 </ul>
 
