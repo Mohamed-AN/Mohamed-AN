@@ -1,5 +1,5 @@
 # Hi there, about me 👋 
-I am Mohamed Nasser a fresh graduate software engineer, who studied a postgraduate diploma for Artificial Intelligence and Machine Learning.
+I am Mohamed Nasser a fresh graduate software engineer, who studied a postgraduate diploma in Artificial Intelligence and Machine Learning.
 - 📫 How to reach me: mnasserce@gmail.com
 
 ## Classical Machine Learning Projects
